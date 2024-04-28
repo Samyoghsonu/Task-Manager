@@ -1,0 +1,4 @@
+1.create a project sidebar
+
+2.if we click on a add project in the projectSidebar component then it should open a new component on the right side of the projectSidebar component ie NewProject.jsx
+    So, Finally in this step we are creating a NewProject component
